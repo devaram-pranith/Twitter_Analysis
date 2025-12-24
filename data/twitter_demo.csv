@@ -1,0 +1,4 @@
+tweet,sentiment
+"I love this product",positive
+"This is terrible",negative
+"Not bad",neutral
